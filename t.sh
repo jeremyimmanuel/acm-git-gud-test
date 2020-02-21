@@ -1,4 +1,4 @@
-for i in {0..10};
+for i in {0..100};
 do
     for j in {1..$i};
     do
